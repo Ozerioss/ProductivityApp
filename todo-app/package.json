@@ -12,6 +12,8 @@
     "lint": "eslint --ext .js,.vue src test/unit/specs"
   },
   "dependencies": {
+    "express": "^4.15.2",
+    "mysql": "^2.13.0",
     "vue": "^2.2.2"
   },
   "devDependencies": {
